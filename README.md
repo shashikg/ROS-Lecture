@@ -11,6 +11,7 @@ Everyone please prepare your laptops before the lectures. Details are given belo
 * And your dedication!!!
 ### Installations
 ROS have different distributions for different release of ubuntu. So, you need to install accordingly. Links for installation instruction for different distributions and supported ubuntu release are given below.
+
 | ROS Distribution | Ubuntu Release | Link |
 | ------ | ------ | ------ |
 |Lunar|Zesty(17.04), Xenial (16.04 LTS)|http://wiki.ros.org/lunar/Installation/Ubuntu|
