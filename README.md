@@ -1,2 +1,2 @@
 # ROS-Lecture
-Lecture materials for lecture to be taken for Robotics Club on ROS
+A general introduction Robot Operating System and hands on to some most usefull topics to undertsand ros.
