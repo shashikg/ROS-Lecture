@@ -3,12 +3,12 @@ This repo contains all the codes and files which will be used during the lecture
 ## Preparations
 Everyone please come prepared. Details are given below what you need to do.
 ### Prerequisites
-* Please make sure you have ubuntu running on your system.
+* Please make sure you have ubuntu running on your system. [Here](https://www.youtube.com/watch?v=SOfnvbdWhrs) are the installation Instructions for Ubuntu( Ubuntu 16.04 LTS is recommended). If you don't want to Dual Boot, [install](https://askubuntu.com/questions/142549/how-to-install-ubuntu-on-virtualbox) Ubuntu in Virtualbox(http://virtualbox.org/)
 * Know the ubuntu release you had been using.
-* ROS installed according to your ubuntu release.
-* Arduin IDE.
-* A good text editor sublime is suggested.
-* And your dedication!!!
+* ROS is installed according to your ubuntu release.
+* [Arduino IDE](https://www.arduino.cc/en/Main/Software).
+* A good text editor, like [Sublime Text Editor](https://www.sublimetext.com/3).
+* And your dedication :)
 ### Installations
 ROS have different distributions for different release of ubuntu. So, you need to install accordingly. Links for installation instruction for different distributions and supported ubuntu release are given below. Execute the command for Desktop-Full
 
