@@ -21,6 +21,7 @@ ROS have different distributions for different release of ubuntu. So, you need t
 
 **Install Arduino IDE using the following command**
 ```sh
+$ sudo apt-get install java-common
 $ sudo apt-get install arduino
 ```
 **Install rosserial**
