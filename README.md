@@ -47,16 +47,16 @@ $ gedit ~/.bashrc
 ```
 and add this **source ~/catkin_ws/devel/setup.bash** at the end of the .bashrc file.
 ## Setting up your Arduino IDE
-First of all run the following commands one by one. Replace <sketchbook> with your exact location of Arduino IDE sketchbook.
+First of all run the following commands one by one. Replace **sketchbook** with your exact location of Arduino IDE sketchbook.
 ```sh
 $ cd ~/catkin_ws/src
 $ git clone https://github.com/ros-drivers/rosserial.git
 $ cd ~/catkin_ws/
 $ catkin_make
-$ rosrun rosserial_arduino make_libraries.py <sketchbook>/libraries
+$ rosrun rosserial_arduino make_libraries.py **sketchbook**/libraries
 ```
 ### Verify for Arduino IDE setup
-Open Arduino IDE and check whether you can see ros_lib folder inside Examples.
+Open Arduino IDE and check whether you can see **ros_lib** folder inside Examples.
 
 
 
