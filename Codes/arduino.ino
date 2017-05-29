@@ -35,5 +35,6 @@ void setup()
 void loop()
 {
 	nh.spinOnce();
+	pub_name.publish(&pub_msg);
 	delay(some_delay_duration);
 }
