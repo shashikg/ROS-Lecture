@@ -49,6 +49,7 @@ $ gedit ~/.bashrc
 and add this **source ~/catkin_ws/devel/setup.bash** at the end of the .bashrc file.
 ## Setting up your Arduino IDE
 First of all run the following commands one by one. Replace (sketchbook) with your exact location of Arduino IDE sketchbook.
+To know your sketchbook location open Arduino IDE goto File >> Preference there you will get the location.
 ```sh
 $ cd ~/catkin_ws/src
 $ git clone https://github.com/ros-drivers/rosserial.git
