@@ -10,7 +10,7 @@ Almost all dependecies automatically gets added when you create your package wit
 <run_depend>rospy</run_depend>
 <run_depend>std_msgs</run_depend>
 ```
-** Two important lines to be added when you use custom message and srv **
+### Two important lines to be added when you use custom message and srv
 ```xml
 <build_depend>message_generation</build_depend>
 <run_depend>message_runtime</run_depend>
