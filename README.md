@@ -1,5 +1,5 @@
 # ROS-Lecture
-This repo contains all the codes and files which will be used during the lecture so it is suggested to clone this repo to your local PC. Further instructions are given below please follow them for a smooth conduct. You are also advised to download the lecture slides from  [HERE](https://docs.google.com/presentation/d/1lUvV41uaQqdtztrlgkrif68w_EaiigFQHx-20KBLS0M/edit?usp=sharing) and the cheatsheat provided in this repo.
+This repo contains all the codes and files which will be used during the lecture so it is suggested to clone this repo to your local PC. Further instructions are given below please follow them for a smooth conduct. You are also advised to download the lecture slides from  [HERE](https://docs.google.com/presentation/d/1lUvV41uaQqdtztrlgkrif68w_EaiigFQHx-20KBLS0M/edit?usp=sharing) and the cheatsheat provided in this repo, use that to know about command line tools.
 ## Preparations
 Everyone please come prepared. Details are given below what you need to do.
 ### Prerequisites
